@@ -1,0 +1,8 @@
+{
+  "name": "Smart Subha",
+  "description": "Portfolio and medical technology showcase for Subhajit Sanpui, Class 10 student (2027), bridging healthcare and software engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
